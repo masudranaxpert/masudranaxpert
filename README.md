@@ -3,8 +3,7 @@
 ## 🚀 AI & Python Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=masudranaxpert&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/your-twitter-username)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mistaxkib)
 
 ---
 
@@ -33,13 +32,25 @@ I'm a passionate developer focused on AI-powered solutions and automation. While
 ### 🏆 Projects
 
 #### 📸 Google Photos Tools
-Advanced tools for Google Photos API integration and automation, including backup solutions and custom galleries.
+Advanced tools for Google Photos API integration and automation, including backup solutions and custom galleries. Working on reverse engineering Google Photos for enhanced functionality.
 
 #### 🤖 Telegram Bots
-Custom Telegram bots for file uploading, chat automation, and content management.
+Custom Telegram bots for file uploading, chat automation, and content management. Developed various chatbots and file management solutions using Telegram's API.
 
 #### ☁️ Google Drive Integration
-Tools and scripts for Google Drive API integration, focusing on seamless file management and synchronization.
+Tools and scripts for Google Drive API integration, focusing on seamless file management and synchronization between platforms.
+
+---
+
+### 🌟 Featured Repositories
+
+<!-- Replace with your actual repositories when you create them -->
+<a href="https://github.com/masudranaxpert/google-photos-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudranaxpert&repo=google-photos-tools&theme=radical" />
+</a>
+<a href="https://github.com/masudranaxpert/telegram-uploader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudranaxpert&repo=telegram-uploader&theme=radical" />
+</a>
 
 ---
 
@@ -51,11 +62,25 @@ Tools and scripts for Google Drive API integration, focusing on seamless file ma
 
 ---
 
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=masudranaxpert&theme=github-dark)
+
+---
+
+### 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google API](https://img.shields.io/badge/Google_API-Experienced-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-Skilled-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
 ### 📫 How to reach me:
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/your-twitter-username)
+- 📧 Email: masudranaxpert@gmail.com
+- 💬 Telegram: [@Mistaxkib](https://t.me/Mistaxkib)
 
 ---
 
