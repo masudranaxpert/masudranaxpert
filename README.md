@@ -42,15 +42,17 @@ Tools and scripts for Google Drive API integration, focusing on seamless file ma
 
 ---
 
+<!-- 
 ### 🌟 Featured Repositories
+NOTE TO SELF: Uncomment this section when repositories are created
 
-<!-- Replace with your actual repositories when you create them -->
 <a href="https://github.com/masudranaxpert/google-photos-tools">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudranaxpert&repo=google-photos-tools&theme=radical" />
 </a>
 <a href="https://github.com/masudranaxpert/telegram-uploader">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=masudranaxpert&repo=telegram-uploader&theme=radical" />
 </a>
+-->
 
 ---
 
